@@ -1,3 +1,5 @@
 # Activity
 
-This is a simple password generating python code
+This contains -
+1: QR generating code in python
+2: Password generating code in python
